@@ -1,2 +1,2 @@
-# Adv-Prog-with-C-and-C-
+# Random past programming assignments
 List of assignments I have done for class.
